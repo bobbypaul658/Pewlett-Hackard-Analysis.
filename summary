@@ -1,0 +1,13 @@
+The purpose of our project is to help Bobby determine the number of retiring employees. We identify their title and who are eligible to participate in the mentorship program. Our retiring employees by title information will show the titles of all employees born between January, 1 1952 and December, 31 1955. . We joined the data tables on birthdate and put the information into a new table. We then created a table for retiring employees. We determined what Bobby was looking for.  The second deliverable we wrote a query that retrieved who is eligible for the mentorship program.
+Results/summary
+nt	title	 
+29414	Senior Engineer	 
+28254	Senior Staff	 
+14222	Engineer	 
+12243	Staff	 
+4502	Technique Leader	 
+1761	Assistant Engineer	 
+2	Manager	 
+
+The unique titles table that we created is showing the most recent title for employees of retirement age. Our retiring titles shows us a majority of the employees of retirement age 90,398 have senior titles roles. There are not many eligible employees for the mentorship program (1,569).  Considering how many are eligible to retire, Pewlett Hackard does not have many people in the mentorship program. Hewlett Packard may want to adjust how its runs the mentorship program and have a balance of number of retirees and current employees. In order to keep revenue sustaining, the company may want to consider having more mentors because the number of employees eligible to retire is a lot. Therefore, turnover wont be great and employees are more capable of keeping the company sustainable. Pewlett also should consider how many employee’s can do dual roles because in case of a mass exodus and therefore is not caught off guard.
+
